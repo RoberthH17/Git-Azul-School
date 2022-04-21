@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hola me llamo Roberth y tengo 24 años
 =======
 sonsonson  onsnos
 >>>>>>> header
 so,mpomdsonmdmd
+=======
+sonsonson  onsnos
+>>>>>>> header
