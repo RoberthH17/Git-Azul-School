@@ -2,5 +2,5 @@
 **Proyecto de git para azul**
 
 [//]:# (Listas enumeradas)
-Index.html
-Information.txt
+1. Index.html
+2. Information.txt
